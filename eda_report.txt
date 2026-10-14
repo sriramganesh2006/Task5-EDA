@@ -1,0 +1,32 @@
+EXPLORATORY DATA ANALYSIS REPORT
+========================================
+Dataset rows: 7
+Dataset columns: 5
+Duplicate rows: 0
+
+Missing values:
+Name          0
+Age           0
+City          0
+Marks         0
+Department    0
+
+Statistical summary:
+        Name        Age       City      Marks Department
+count      7   7.000000          7   7.000000          7
+unique     7        NaN          3        NaN          3
+top     Ravi        NaN  Hyderabad        NaN        CSE
+freq       1        NaN          4        NaN          3
+mean     NaN  21.000000        NaN  86.357143        NaN
+std      NaN   1.290994        NaN   5.764216        NaN
+min      NaN  19.000000        NaN  78.000000        NaN
+25%      NaN  20.500000        NaN  83.000000        NaN
+50%      NaN  21.000000        NaN  86.500000        NaN
+75%      NaN  21.500000        NaN  89.500000        NaN
+max      NaN  23.000000        NaN  95.000000        NaN
+
+Marks analysis:
+Mean: 86.36
+Median: 86.50
+Highest: 95.0
+Lowest: 78.0
